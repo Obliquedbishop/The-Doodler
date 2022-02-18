@@ -355,7 +355,7 @@ def spawn_pencil(x, y):
 
 def main():
     """
-    Starting point of the program, call the spawn_pencil function
+    Starting point of the program, calls the spawn_pencil function
     """
     notebook.onclick(spawn_pencil)
 
